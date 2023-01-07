@@ -1,1 +1,1 @@
-Start of project
+Start of gold caddie project
